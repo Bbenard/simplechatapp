@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1015103096112",
+    "firebase_url": "https://chatapp-f1185.firebaseio.com",
+    "project_id": "chatapp-f1185",
+    "storage_bucket": "chatapp-f1185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015103096112:android:abce06dde83c8237",
+        "android_client_info": {
+          "package_name": "com.example.benard.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015103096112-qb1c2chodug92djorkf6obke74avki9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.benard.chatapp",
+            "certificate_hash": "94D5FE07464F853E15A7D3FD6FB9B8CA27A4441F"
+          }
+        },
+        {
+          "client_id": "1015103096112-9qkhj2mljh44r4ufjabc72e987f52jmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABLxnor8aoAzrj5DF9ibkpRP4p7XWdiMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015103096112-9qkhj2mljh44r4ufjabc72e987f52jmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
